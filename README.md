@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
+| [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -21,4 +23,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
