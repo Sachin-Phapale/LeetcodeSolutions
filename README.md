@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Sachin-Phapale/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 ## Math
